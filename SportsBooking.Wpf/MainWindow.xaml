@@ -1,0 +1,74 @@
+﻿<Window x:Class="SportsBooking.Wpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SportsBooking"
+        Height="750"
+        Width="900">
+
+    <Grid Margin="30">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <StackPanel Width="300"
+                    HorizontalAlignment="Center">
+
+            <TextBlock Text="Вход"
+                       FontSize="28"
+                       FontWeight="Bold"
+                       Margin="0 0 0 20"
+                       HorizontalAlignment="Center"/>
+
+            <TextBlock Text="Email"/>
+            <TextBox x:Name="EmailTextBox"
+                     Height="32"
+                     Margin="0 5 0 15"/>
+
+            <TextBlock Text="Пароль"/>
+            <PasswordBox x:Name="PasswordBox"
+                         Height="32"
+                         Margin="0 5 0 20"/>
+
+            <Button Content="Войти"
+                    Height="36"
+                    Click="LoginButton_Click"/>
+
+            <TextBlock x:Name="ResultTextBlock"
+                       Margin="0 15 0 20"
+                       TextWrapping="Wrap"
+                       HorizontalAlignment="Center"/>
+        </StackPanel>
+
+        <StackPanel Grid.Row="1">
+            <TextBlock Text="Список спортивных площадок"
+                       FontSize="22"
+                       FontWeight="Bold"
+                       Margin="0 20 0 10"/>
+
+            <Button Content="Загрузить площадки"
+                    Width="180"
+                    Height="32"
+                    HorizontalAlignment="Left"
+                    Click="LoadGroundsButton_Click"/>
+
+            <ListBox x:Name="GroundsListBox"
+         Margin="0 15 0 0"
+         Height="69"/>
+
+            <Button Content="Забронировать выбранную площадку"
+        Width="240"
+        Height="36"
+        Margin="0 15 0 0"
+        HorizontalAlignment="Left"
+        Click="BookButton_Click"/>
+
+            <Button Content="Загрузить изображение"
+        Width="200"
+        Height="36"
+        Margin="0 15 0 0"
+        HorizontalAlignment="Left"
+        Click="UploadFileButton_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

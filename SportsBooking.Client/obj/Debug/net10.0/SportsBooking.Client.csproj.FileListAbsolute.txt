@@ -1,0 +1,15 @@
+C:\Users\dodal\source\repos\SportsBooking\SportsBooking.Client\bin\Debug\net10.0\SportsBooking.Client.deps.json
+C:\Users\dodal\source\repos\SportsBooking\SportsBooking.Client\bin\Debug\net10.0\SportsBooking.Client.dll
+C:\Users\dodal\source\repos\SportsBooking\SportsBooking.Client\bin\Debug\net10.0\SportsBooking.Client.pdb
+C:\Users\dodal\source\repos\SportsBooking\SportsBooking.Client\bin\Debug\net10.0\SportsBooking.Models.dll
+C:\Users\dodal\source\repos\SportsBooking\SportsBooking.Client\bin\Debug\net10.0\SportsBooking.Models.pdb
+C:\Users\dodal\source\repos\SportsBooking\SportsBooking.Client\obj\Debug\net10.0\SportsBooking.Client.csproj.AssemblyReference.cache
+C:\Users\dodal\source\repos\SportsBooking\SportsBooking.Client\obj\Debug\net10.0\SportsBooking.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dodal\source\repos\SportsBooking\SportsBooking.Client\obj\Debug\net10.0\SportsBooking.Client.AssemblyInfoInputs.cache
+C:\Users\dodal\source\repos\SportsBooking\SportsBooking.Client\obj\Debug\net10.0\SportsBooking.Client.AssemblyInfo.cs
+C:\Users\dodal\source\repos\SportsBooking\SportsBooking.Client\obj\Debug\net10.0\SportsBooking.Client.csproj.CoreCompileInputs.cache
+C:\Users\dodal\source\repos\SportsBooking\SportsBooking.Client\obj\Debug\net10.0\SportsBo.63BFD704.Up2Date
+C:\Users\dodal\source\repos\SportsBooking\SportsBooking.Client\obj\Debug\net10.0\SportsBooking.Client.dll
+C:\Users\dodal\source\repos\SportsBooking\SportsBooking.Client\obj\Debug\net10.0\refint\SportsBooking.Client.dll
+C:\Users\dodal\source\repos\SportsBooking\SportsBooking.Client\obj\Debug\net10.0\SportsBooking.Client.pdb
+C:\Users\dodal\source\repos\SportsBooking\SportsBooking.Client\obj\Debug\net10.0\ref\SportsBooking.Client.dll

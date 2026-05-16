@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Новый профиль",
+    "Projects": [
+      {
+        "Path": "SportsBooking.Api\\SportsBooking.Api.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "SportsBooking.Wpf\\SportsBooking.Wpf.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

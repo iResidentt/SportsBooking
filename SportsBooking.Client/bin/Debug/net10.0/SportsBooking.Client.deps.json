@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SportsBooking.Client/1.0.0": {
+        "dependencies": {
+          "SportsBooking.Models": "1.0.0"
+        },
+        "runtime": {
+          "SportsBooking.Client.dll": {}
+        }
+      },
+      "SportsBooking.Models/1.0.0": {
+        "runtime": {
+          "SportsBooking.Models.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SportsBooking.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SportsBooking.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,9 @@
+<Solution>
+  <Project Path="SportsBooking.Api/SportsBooking.Api.csproj" />
+  <Project Path="SportsBooking.Client/SportsBooking.Client.csproj" />
+  <Project Path="SportsBooking.Data/SportsBooking.Data.csproj" />
+  <Project Path="SportsBooking.Desktop/SportsBooking.Desktop.csproj" />
+  <Project Path="SportsBooking.Models/SportsBooking.Models.csproj" />
+  <Project Path="SportsBooking.Tests/SportsBooking.Tests.csproj" />
+  <Project Path="SportsBooking.Wpf/SportsBooking.Wpf.csproj" />
+</Solution>
